@@ -1,0 +1,7 @@
+﻿  test.c
+D:\code\test_1_12\test.c(1,1): warning C4828: 文件包含在偏移 0xbf4 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\code\test_1_12\test.c(149,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\test_1_12\test.c(149,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\test_1_12\test.c(150,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\test_1_12\test.c(150,9): message : 请考虑在格式字符串中使用“%zd”
+  test_1_12.vcxproj -> D:\code\test_1_12\x64\Debug\test_1_12.exe
