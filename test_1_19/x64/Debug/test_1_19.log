@@ -1,0 +1,3 @@
+﻿  test.c
+D:\code\test_1_19\test.c(1,1): warning C4828: 文件包含在偏移 0xbf3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test_1_19.vcxproj -> D:\code\test_1_19\x64\Debug\test_1_19.exe
