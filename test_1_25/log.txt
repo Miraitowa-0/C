@@ -1,0 +1,10 @@
+file:D:\code\test_1_25\test.c line:55 date:Jan 25 2023 time:1456512024 i=0
+file:D:\code\test_1_25\test.c line:55 date:Jan 25 2023 time:1456512024 i=1
+file:D:\code\test_1_25\test.c line:55 date:Jan 25 2023 time:1456512024 i=2
+file:D:\code\test_1_25\test.c line:55 date:Jan 25 2023 time:1456512024 i=3
+file:D:\code\test_1_25\test.c line:55 date:Jan 25 2023 time:1456512024 i=4
+file:D:\code\test_1_25\test.c line:55 date:Jan 25 2023 time:1456512024 i=5
+file:D:\code\test_1_25\test.c line:55 date:Jan 25 2023 time:1456512024 i=6
+file:D:\code\test_1_25\test.c line:55 date:Jan 25 2023 time:1456512024 i=7
+file:D:\code\test_1_25\test.c line:55 date:Jan 25 2023 time:1456512024 i=8
+file:D:\code\test_1_25\test.c line:55 date:Jan 25 2023 time:1456512024 i=9
